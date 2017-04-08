@@ -1,4 +1,4 @@
-#Webpack Starter with live reloading support
+#Webpack Starter with live reloading support<br />
 SASS and GZIP compression enabled
 
 Modules added:<br />
